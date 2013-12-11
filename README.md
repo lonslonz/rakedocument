@@ -1,0 +1,4 @@
+rakedocument
+============
+
+rake document
